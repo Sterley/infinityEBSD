@@ -1,2 +1,2 @@
 # infinityEBSD
-InfinityEBSD : Metrics-Guided Infinite-Size EBSD Map Generation with Diffusion Models.
+InfinityEBSD : Metrics-Guided Infinite-Size EBSD Map Generation With Diffusion Models.
